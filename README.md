@@ -58,7 +58,6 @@ You can select a number to view a brief description of the corresponding tool.
 Machine Credentials
 
 Username: project
-
 Password: vareproject123
 
 
