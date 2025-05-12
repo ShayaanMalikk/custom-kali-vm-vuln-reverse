@@ -69,18 +69,18 @@ Download Link: https://drive.google.com/file/d/1SBkQyK_CQ8fg22tcvK-WGFlYx4sDJhqN
 Instructions to Run the Project
 
 1.	You will need to download the following three files:
-o	.mf (manifest file)
-o	.ovf (Open Virtualization Format file)
-o	disk1.vmdk (virtual disk file)
+a.	.mf (manifest file)
+b.	.ovf (Open Virtualization Format file)
+c.	disk1.vmdk (virtual disk file)
 Ensure that all three files are saved in the same directory on your system.
 2.	Import the .ovf file into your VirtualBox or VMware:
-o	Open your virtualization software.
-o	Choose the option to import an appliance or open a virtual machine.
-o	Select the downloaded .ovf file and follow the on-screen instructions to complete the import.
+a.	Open your virtualization software.
+b.	Choose the option to import an appliance or open a virtual machine.
+c.	Select the downloaded .ovf file and follow the on-screen instructions to complete the import.
 
 3.	Start the machine using the following credentials:
-o	Username: project
-o	Password: vareproject123
+a.	Username: project
+b	Password: vareproject123
 
 4.	Open a terminal and navigate to /help.
 5.	Run the Tools_Description script to view tool descriptions.
