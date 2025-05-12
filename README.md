@@ -11,6 +11,7 @@ The environment also features a built-in help script with a user-friendly menu t
 
 Tools & Frameworks Included
 The virtual machine comes pre-installed with the following tools:
+
 Vulnerability Assessment Tools
 •	Nmap
 •	Nikto
@@ -18,11 +19,13 @@ Vulnerability Assessment Tools
 •	SQLMap
 •	Nessus
 •	OpenVAS
+
 Reverse Engineering Tools
 •	Radare2
 •	Ghidra
 •	GDB
 •	Binwalk
+
 Browser Utilities
 •	Firefox with FoxyProxy extension (for Burp Suite integration)
 
